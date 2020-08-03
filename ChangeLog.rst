@@ -2,6 +2,9 @@
 Change Log
 **********
 
+3.0.0 — 2020-xx-xx
+    * **BREAKING CHANGE:** Add type hints, which removes Python2 compatibility
+
 2.3.0 — 2020-08-03
     * Add notice on Python2 EOL
     * Modernize code and improve testing, split up some huge functions
